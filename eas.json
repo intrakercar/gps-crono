@@ -1,0 +1,9 @@
+{
+  "cli": { "version": ">= 11.0.0" },
+  "build": {
+    "apk": {
+      "android": { "buildType": "apk" }
+    }
+  },
+  "submit": {}
+}
