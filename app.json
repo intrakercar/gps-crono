@@ -33,7 +33,7 @@
         "ACCESS_FINE_LOCATION",
         "ACCESS_COARSE_LOCATION"
       ],
-      "package": "com.example.gpscrono"
+      "package": "com.intrakercar.gpscrono"
     },
     "web": {
       "bundler": "metro",
